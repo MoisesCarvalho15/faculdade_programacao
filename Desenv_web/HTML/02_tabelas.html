@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Tabelas</title>
+    </head>
+    <body>
+        <h1>Tipos de tabela</h1>
+
+        <h2>Tabela simples</h2>
+        <table width="100%" border="1">
+            <tr><!--Linha-->
+                <td>Alex</td>
+                <td>HTML</td>
+                <td>10</td>
+            </tr>
+            <tr>
+                <td>Ana</td>
+                <td>HTML</td>
+                <td>10</td>
+            </tr>   
+        </table>
+
+        <h2>Tabela com Títulos</h2>
+        <table width="100%" border="1">
+            <tr>
+                <!--Títulos das Colunas-->
+                <th>Aluno</th>
+                <th>Disciplina</th>
+                <th>Nota</th>
+            </tr>
+            <tr>
+                <!--Dados do Aluno 1-->
+                <td>Alex</td>
+                <td>HTML</td>
+                <td>10</td>
+            </tr>
+            <tr>
+                <!--Dados do Aluno 2-->
+                <td>Ana</td>
+                <td>HTML</td>
+                <td>10</td>
+            </tr>
+        </table>
+
+        <h2>Tabela com Cabeçalho e Rodapé</h2>
+        <table width="100%" border="1">
+            <!--Cabeçalho da tabela-->
+            <thead>
+                <tr>
+                    <th>Mês</th>
+                    <th>Horas/Aulas</th>
+                </tr>
+            </thead>
+            <!--Dados da Tabela-->
+            <tbody>
+                <tr>
+                    <td>Junho</td>
+                    <td>40</td>
+                </tr>
+            </tbody>
+            <!--Rodapé da tabela-->
+            <tfoot>
+                <tr>
+                    <th>Total</th>
+                    <th>40</th>
+                </tr>
+            </tfoot>
+        </table>
+
+        <h2>Tabela com Colspan</h2>
+        <table width="100%" border="1">
+            <tr>
+                <td>Aluno</td>
+                <!--Ocupando o espaço de duas colunas-->
+                <td colspan="2">Disciplinas</td>
+            </tr>
+            <tr>
+                <td>Alex</td>
+                <td>HTML</td>
+                <td>Ambiente Web</td>
+            </tr>
+        </table>
+
+        <h2>Tabela com Rowspan</h2>
+        <table width="100%" border="1">
+            <tr>
+                <td>Aluno</td>
+                <td rowspan="2">Disciplina</td>
+            </tr>
+            <tr>
+                <td>Ana</td>
+                <td>HTML</td>
+                <td>Ambiente Web</td>
+            </tr>
+        </table>
+    </body>
+</html>
