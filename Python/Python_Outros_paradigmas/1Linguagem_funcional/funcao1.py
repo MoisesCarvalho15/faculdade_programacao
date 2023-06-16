@@ -1,6 +1,6 @@
-# Função Pura parte 1
 valor = 20
 
+# Função não Pura
 def multiplica(fator):
     # referenciando a variável global
     global valor
@@ -23,4 +23,9 @@ Neste caso
             - O valor da variável global será 20 * 3 = 60
         - Na segunda vez:
             - O valor da variável global será 60 * 3 = 180
+Ou seja, este exemplo é de uma função não pura.
+Porque: 
+    - ela não depende apenas dos parâmetros para gerar resultados
+    - essa função não retorna valor algum.
+    - ela modifica o valor de uma variável externa da função.
 """
