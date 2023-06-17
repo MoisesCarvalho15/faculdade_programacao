@@ -17,7 +17,14 @@ Repositório criado para armazenar e registrar todo o meu aprendizado na faculda
 - [Box model](Desenv_web/CSS/boxmodel.html)
 - [Seletores HTML](Desenv_web/CSS/seletores.html)
 - [Seletores CSS](Desenv_web/CSS/seletores.css)
-  
+
+### JavaScript
+
+- [Repetição FOR](Desenv_web/JS/repeticoes/ex01.js)
+- [Repetição FOR IN](Desenv_web/JS/repeticoes/ex02.js)
+- [Repetição WHILE](Desenv_web/JS/repeticoes/ex03.js)
+- [Repetição DO WHILE](Desenv_web/JS/repeticoes/ex04.js)
+
 ---
 ## Python
 
