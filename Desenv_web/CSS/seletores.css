@@ -1,0 +1,11 @@
+p#texto_apresentacao {
+    font-size: 16px;
+}
+
+p.texto_descricao {
+    font-size: 12px;
+}
+
+.texto_vermelho {
+    color: red;
+}
