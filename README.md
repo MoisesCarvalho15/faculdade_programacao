@@ -11,3 +11,6 @@ Repositório criado para armazenar e registrar todo o meu aprendizado na faculda
 - [Formulário com Validação de Campo](Desenv_web/HTML/03_formulario.html)
 
 ---
+## Python
+
+- [Estrutura Condicional](Python/estrutura_condicional/)
