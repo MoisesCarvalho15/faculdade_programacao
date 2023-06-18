@@ -24,6 +24,9 @@ Repositório criado para armazenar e registrar todo o meu aprendizado na faculda
 - [Repetição FOR IN](Desenv_web/JS/repeticoes/ex02.js)
 - [Repetição WHILE](Desenv_web/JS/repeticoes/ex03.js)
 - [Repetição DO WHILE](Desenv_web/JS/repeticoes/ex04.js)
+- [Condicional If](Desenv_web/JS/condicionais/ex01.js)
+- [Condicional If else](Desenv_web/JS/condicionais/ex02.js)
+- [Condicional Switch case](Desenv_web/JS/condicionais/ex03.js) 
 
 ---
 ## Python
