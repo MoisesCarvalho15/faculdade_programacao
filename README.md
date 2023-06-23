@@ -41,3 +41,6 @@ Repositório criado para armazenar e registrar todo o meu aprendizado na faculda
 - [Exceções](Python/excecoes/)
 - [Programação Orientada a Objetos](Python/POO/)
 - [Programação Funcional](Python/Python_Outros_paradigmas/1Linguagem_funcional/)
+- [Threads](Python/Python_Outros_paradigmas/2_Threads_processos/)
+- [Flask](Python/Python_Outros_paradigmas/3Flask/)
+- [Ciência de Dados](Python/Python_Outros_paradigmas/4Ciencia_Dados/)
